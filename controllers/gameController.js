@@ -1,5 +1,5 @@
 const Value = require("../models/Value");
-const ValueLevel = require("../models/ValueLevel");
+const ValueLevel = require("../models/ValueLeval");
 const Board = require("../models/Board");
 const { apiResponse } = require("../utils/apiResponse");
 

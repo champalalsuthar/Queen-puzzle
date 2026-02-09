@@ -1,0 +1,92 @@
+[
+    {
+        "value": 5,
+        "level": 1,
+        "status": "active"
+    },
+    {
+        "value": 5,
+        "level": 2,
+        "status": "active"
+    },
+    {
+        "value": 5,
+        "level": 3,
+        "status": "active"
+    },
+    {
+        "value": 6,
+        "level": 1,
+        "status": "active"
+    },
+    {
+        "value": 6,
+        "level": 2,
+        "status": "active"
+    },
+    {
+        "value": 6,
+        "level": 3,
+        "status": "active"
+    },
+    {
+        "value": 7,
+        "level": 1,
+        "status": "active"
+    },
+    {
+        "value": 7,
+        "level": 2,
+        "status": "active"
+    },
+    {
+        "value": 7,
+        "level": 3,
+        "status": "active"
+    },
+    {
+        "value": 8,
+        "level": 1,
+        "status": "active"
+    },
+    {
+        "value": 8,
+        "level": 2,
+        "status": "active"
+    },
+    {
+        "value": 8,
+        "level": 3,
+        "status": "active"
+    },
+    {
+        "value": 9,
+        "level": 1,
+        "status": "active"
+    },
+    {
+        "value": 9,
+        "level": 2,
+        "status": "active"
+    },
+    {
+        "value": 9,
+        "level": 3,
+        "status": "active"
+    },
+    {
+        "value": 10,
+        "level": 1,
+        "status": "active"
+    },
+    {
+        "value": 10,
+        "level": 2,
+        "status": "active"
+    },
+    {
+        "value": 10,
+        "level": 3,
+        "status": "active"
+    }
+]
